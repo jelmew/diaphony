@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amenj/Projects/Own/diaphony/main.cpp
+iostream
+-
+
+/home/amenj/Projects/Own/diaphony/src/Point.h
+
+/home/amenj/Projects/Own/diaphony/src/PointService.cpp
+PointService.h
+/home/amenj/Projects/Own/diaphony/src/PointService.h
+
+/home/amenj/Projects/Own/diaphony/src/PointService.h
+vector
+-
+random
+-
+iostream
+-
+array
+-
+Point.h
+/home/amenj/Projects/Own/diaphony/src/Point.h
+

@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/home/amenj/Projects/Own/diaphony/googletest-download/CMakeFiles/googletest
+/home/amenj/Projects/Own/diaphony/googletest-download/CMakeFiles/googletest.rule
+/home/amenj/Projects/Own/diaphony/googletest-download/CMakeFiles/googletest-complete.rule
+/home/amenj/Projects/Own/diaphony/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/home/amenj/Projects/Own/diaphony/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/home/amenj/Projects/Own/diaphony/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/home/amenj/Projects/Own/diaphony/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/home/amenj/Projects/Own/diaphony/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/home/amenj/Projects/Own/diaphony/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/home/amenj/Projects/Own/diaphony/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/home/amenj/Projects/Own/diaphony/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
